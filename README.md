@@ -1,5 +1,3 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/40fe69a7-d3c6-4b44-9d8b-4e0334fef827" /><img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6980e4bf-1438-44a9-834e-c6eee91d1c1c" /><h1 align="center"> Plano de Teste – Compra na EBAC - SHOP </h1>
-
 ## Objetivo:
 Validar o fluxo de compra de um produto na lojinha EBAC - SHOP, incluindo busca, seleção, carrinho, checkout confirmação do pedido.
 
