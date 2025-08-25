@@ -1,1 +1,1 @@
-# Teste_Manual_fluxo_de_compra_Amazon
+<h1 align="center"> Plano de Teste – Compra na Amazon </h1>
